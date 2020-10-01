@@ -1,0 +1,5 @@
+1. Creation d'un repertoire 'lab2' a l'aide de la commande: mkdir
+2. Création d'un fichier 'Moulai_khatir' et édition à l'aide de la commande: vim Moulai_khatir
+   Mode controle de vim à l'aide du raccourci clavier: echap
+   Enregistrer et quitter à l'aide de la commande: :wq
+5. Pour tout ajouter dans le repositery: git add .
